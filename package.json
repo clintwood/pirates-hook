@@ -1,0 +1,11 @@
+{
+  "name": "pirates-hook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pirates-hook.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pirates": "^3.0.1"
+  }
+}
